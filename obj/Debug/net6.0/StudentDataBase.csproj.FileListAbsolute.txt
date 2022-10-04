@@ -1,0 +1,15 @@
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\bin\Debug\net6.0\StudentDataBase.exe
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\bin\Debug\net6.0\StudentDataBase.deps.json
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\bin\Debug\net6.0\StudentDataBase.runtimeconfig.json
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\bin\Debug\net6.0\StudentDataBase.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\bin\Debug\net6.0\StudentDataBase.pdb
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\obj\Debug\net6.0\StudentDataBase.csproj.AssemblyReference.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\obj\Debug\net6.0\StudentDataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\obj\Debug\net6.0\StudentDataBase.AssemblyInfoInputs.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\obj\Debug\net6.0\StudentDataBase.AssemblyInfo.cs
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\obj\Debug\net6.0\StudentDataBase.csproj.CoreCompileInputs.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\obj\Debug\net6.0\StudentDataBase.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\obj\Debug\net6.0\refint\StudentDataBase.dll
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\obj\Debug\net6.0\StudentDataBase.pdb
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\obj\Debug\net6.0\StudentDataBase.genruntimeconfig.cache
+C:\Users\berge\OneDrive\Desktop\Grand Circus\Labs\Unit 3\StudentDataBase\obj\Debug\net6.0\ref\StudentDataBase.dll
