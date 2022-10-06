@@ -64,8 +64,8 @@ namespace StudentDataBase
             List<string> hometownWords = new List<string>();
             List<string> foodWords = new List<string>();
 
-            hometownWords.AddRange(new List<string> { "HOME", "TOWN", });
-            foodWords.AddRange(new List<string> { "FAVORITE", "FOOD", "FAV" });
+            hometownWords.AddRange(new List<string> { "HOME", "TOWN", "HOMETOWN", "HOME TOWN" });
+            foodWords.AddRange(new List<string> { "FAVORITE", "FOOD", "FAV", "FAVORITE FOOD", "FAVORITEFOOD" });
 
             while (true)
             {
